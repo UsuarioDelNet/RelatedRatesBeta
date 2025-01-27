@@ -1,5 +1,4 @@
 # RelatedRatesBeta
-Does related rates for cones (dV/dt still kinda buggy so working on that)<br />
-I'm trying, it'll work eventually <br />
-The others are ok though they're pretty accurate within 1/100th of a decimal iirc <br />
-So yeah check it out
+Calculates related rates for cones <br />
+Answers are within 1/100th of a decimal <br />
+(calculating dV/dt is a bit buggy, however this project has been archived so no new changes will occur)<br />
